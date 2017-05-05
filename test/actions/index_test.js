@@ -1,4 +1,4 @@
-import { expect } from '../test_helper';
+import { expect } from '../test_help';
 import { describe, it } from 'mocha';
 
 import { SAVE_COMMENT } from '../../src/actions/types';

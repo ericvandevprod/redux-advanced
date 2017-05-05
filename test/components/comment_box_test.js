@@ -1,4 +1,4 @@
-import { renderComponent, expect } from '../test_helper';
+import { renderComponent, expect } from '../test_help';
 import CommentBox from '../../src/components/comment_box';
 import { describe, it } from 'mocha';
 
